@@ -2,7 +2,7 @@
 
 This was written using Python 3.6.5 in Jupyter Notebook.
 
-The script lists the most used python functions for data manipulation including information on:
+This script lists the most used python functions for data manipulation including:
 
 1. How to connect to SQL server
 2. How to upgrade/install packages
