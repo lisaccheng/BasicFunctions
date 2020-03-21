@@ -1,5 +1,4 @@
-# BasicFunctions
-Basic Python functions
+# Basic Python functions
 
 This was written using Python 3.6.5 in Jupyter Notebook.
 
